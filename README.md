@@ -3,7 +3,6 @@
 Project 3 is a Frogger style game.
 
 ##Installation and Configuration
-==============================
 
 To play the game open the **index.html** file in your favorite browser.
 
